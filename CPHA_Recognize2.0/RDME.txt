@@ -1,0 +1,6 @@
+tesseracTest：利用pytesseract库中的ocr对图片进行识别
+nyfirstNet，dataset: 对数据进行操作
+Mydata：做数据
+CNNLSTMnet:VGGNet网络结构
+myNet：seq2seq
+testmodele:对myNet的测试
