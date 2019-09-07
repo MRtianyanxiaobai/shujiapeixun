@@ -1,0 +1,4 @@
+1.ttf 一种文字样式
+pic.py 对验证码进行随机生成
+myData.pt 做数据集
+trainer  利用seq2seq模型，对模型进行训练，测试
